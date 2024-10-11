@@ -1,0 +1,26 @@
+Midia/
+
+# Diretórios de dependências
+Cypress/node_modules/
+
+# Relatórios de testes
+Cypress/cypress/results/
+
+# Capturas de tela e vídeos
+Cypress/cypress/screenshots/
+Cypress/cypress/videos/
+
+# Arquivos de configuração locais
+Cypress/cypress/results/
+
+# Logs
+*.log
+
+# Arquivos de build
+dist/
+build/
+
+# Outros arquivos temporários
+.DS_Store
+*.swp
+*.tmp
